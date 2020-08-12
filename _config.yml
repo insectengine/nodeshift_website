@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   GET YOUR NODE.JS ON OPENSHIFT - Nodeshift is an opinionated command line application and programmable API that you can use to deploy Node.js projects to OpenShift.
 
 
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nodeshift.dev/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  nodeshift
